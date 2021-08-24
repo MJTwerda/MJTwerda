@@ -11,7 +11,7 @@
 Javascript | React | Redux | Express | Nodejs | PostgreSQL | Sequelize | Css3 
 
 
-🔭Yo:
+🔭 Contacto
 
 🔎 Gmail dronm27a.z@gmail.com
 
