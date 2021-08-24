@@ -5,6 +5,7 @@
 
 -->
 
-📢Tecnologías 🧱
+📢Tecnologías 
+🧱 🎨
 
 Javascript | React | Redux | Express | Nodejs | PostgreSQL | Sequelize | Css3 | 
