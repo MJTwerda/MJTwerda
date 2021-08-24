@@ -8,4 +8,10 @@
 📢Tecnologías 
 🧱 🎨
 
-Javascript | React | Redux | Express | Nodejs | PostgreSQL | Sequelize | Css3 | 
+Javascript | React | Redux | Express | Nodejs | PostgreSQL | Sequelize | Css3 
+
+
+🔭Redes Sociales
+
+🔎LinkedIn https://www.linkedin.com/in/mauricio-twerda-musdev/
+
