@@ -18,7 +18,7 @@
 #### 📢 Tecnologías
 🧱 🎨
 ```
-Javascript | React | Redux | Express | Nodejs | PostgreSQL | Sequelize | Css3 
+Javascript | React | Redux | Typescript | Express | Nodejs | PostgreSQL | Sequelize | Css3 | Html5
 ```
 
 #### 🔭 **Contacto**
