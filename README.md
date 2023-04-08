@@ -23,7 +23,7 @@ Javascript | React | Redux | Typescript | Express | Nodejs | PostgreSQL | Sequel
 
 #### 🔭 **Contacto**
 
-🔎 Gmail dronm27a.z@gmail.com
+🔎 Gmail mauriciotwerda@gmail.com
 
 🔎[LinkedIn](https://www.linkedin.com/in/mauricio-twerda-musdev/)
 
