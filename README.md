@@ -16,9 +16,13 @@
 
 ### Herramientas
 #### 📢 Tecnologías
-🧱 🎨
+ 🎨
 ```
-Javascript | React | Redux | Typescript | Express | Nodejs | PostgreSQL | Sequelize | Css3 | Html5
+Next | React | Redux | Typescript | Javascript | Css3 | Html5 | Jest
+```
+🧱
+```
+Nodejs | Express | NestJS | PostgreSQL | Sequelize
 ```
 
 #### 🔭 **Contacto**
