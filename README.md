@@ -28,6 +28,7 @@ Nodejs | Express | NestJS | PostgreSQL | Sequelize
 #### 🔭 **Contacto**
 
 🔎 Gmail mauriciotwerda@gmail.com
+🔎 [Mi Portafolio](https://mauritwerda.vercel.app/)
 
 🔎[LinkedIn](https://www.linkedin.com/in/mauricio-twerda-musdev/)
 
